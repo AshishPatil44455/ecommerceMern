@@ -17,7 +17,23 @@ const Home = () => {
           productId="asdas"
           photo="https://laptopmedia.com/wp-content/uploads/2022/06/1654598710_1710417-680x401.jpg"
           name="Macbook"
-          price={123}
+          price={232223}
+          stock={123}
+          handler={addToCartHandler}
+        />
+        <ProductCard
+          productId="asdas"
+          photo="https://laptopmedia.com/wp-content/uploads/2022/06/1654598710_1710417-680x401.jpg"
+          name="Macbook"
+          price={232223}
+          stock={123}
+          handler={addToCartHandler}
+        />
+        <ProductCard
+          productId="asdas"
+          photo="https://laptopmedia.com/wp-content/uploads/2022/06/1654598710_1710417-680x401.jpg"
+          name="Macbook"
+          price={232223}
           stock={123}
           handler={addToCartHandler}
         />
